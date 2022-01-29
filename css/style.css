@@ -1,0 +1,52 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+border-radius: 0;
+border: none;
+background-color: #000e53;
+color: whitesmoke;
+}
+body{
+	background-color: #FC9E21;
+	color: white;
+	font-family: monospace;
+}
+.glyphicon{
+	font-size: 30px;
+	color:whitesmoke; 
+}
+
+.center{
+	width: 90%;
+	background-color: #000e53;
+	color: black;
+
+}
+.container
+{
+	background-color: #000e53;
+}
+.text-center{
+	font-size: 40px;
+	color: white;
+	font-family: monospace;
+}
+
+h2{
+	text-align: center;
+	color: white;
+	font-family: monospace;
+}
+#myNavbar ul li a {
+	color: white;
+}
+.navbar-brand{
+font-size: 40px;
+margin-top:10px;	
+}
+p#chickstory{
+	color: white;
+}
